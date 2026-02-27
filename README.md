@@ -1,14 +1,12 @@
-# NutriMatch---A-hybrid-recommendation-system
+NutriMatch---A-hybrid-recommendation-system
 NutriMatch is an AI-powered nutrition recommendation system that suggests personalized meals based on user preferences, dietary restrictions, and health goals using machine learning and data analysis.
-# 🥗 NutriMatch — AI Powered Nutrition Recommendation System
+NutriMatch — AI Powered Nutrition Recommendation System
 
 NutriMatch is a machine learning–based nutrition recommendation system that provides personalized meal suggestions based on user preferences, dietary restrictions, and health goals.
 
 The goal of this project is to help individuals make healthier food choices using data-driven insights and intelligent matching algorithms.
 
----
-
-## 📌 Problem Statement
+Problem Statement
 
 Many people struggle to choose meals that align with their:
 
@@ -20,7 +18,7 @@ NutriMatch solves this problem by recommending suitable meals based on user inpu
 
 ---
 
-## 🎯 Features
+Features
 
 ✅ Personalized meal recommendations
 ✅ Nutrition-based filtering
@@ -29,9 +27,7 @@ NutriMatch solves this problem by recommending suitable meals based on user inpu
 ✅ Data preprocessing and analysis
 ✅ Interactive user input system
 
----
-
-## 🧠 Machine Learning Approach
+Machine Learning Approach
 
 The recommendation system uses similarity-based matching techniques to identify meals that best fit user requirements.
 
@@ -43,9 +39,7 @@ Steps involved:
 4. Recommendation Generation
 5. Output Visualization
 
----
-
-## 🛠️ Tech Stack
+Tech Stack
 
 * Python
 * Pandas
@@ -54,13 +48,11 @@ Steps involved:
 * Matplotlib / Seaborn
 * Jupyter Notebook
 
-(Optional if used)
 
-* Streamlit / Flask (for deployment)
 
----
+* Streamlit (for deployment)
 
-## 📂 Project Structure
+Project Structure
 
 ```
 NutriMatch/
@@ -82,7 +74,7 @@ NutriMatch/
 
 ---
 
-## 📊 How It Works
+How It Works
 
 1. User enters preferences such as:
 
@@ -95,9 +87,7 @@ NutriMatch/
 
 3. Personalized recommendations are displayed.
 
----
-
-## ▶️ Installation
+Installation
 
 Clone the repository:
 
@@ -124,11 +114,15 @@ python recommendation_engine.py
 
 The system successfully recommends meals that closely match user nutritional needs and preferences, demonstrating the potential of AI in personalized health solutions.
 
-(Add screenshots in this section)
+![dash](https://github.com/user-attachments/assets/f0ab0ac8-783f-408d-ad7e-e8db44100b84)
+![login](https://github.com/user-attachments/assets/4ab19073-00e3-4656-933f-7ab215b0dd0b)
+![signup](https://github.com/user-attachments/assets/408371cf-cb5b-428c-8e04-36be80bb8f14)
 
----
 
-## 🚀 Future Improvements
+
+
+
+Future Improvements
 
 * Deep learning–based recommendations
 * Mobile app integration
@@ -136,9 +130,7 @@ The system successfully recommends meals that closely match user nutritional nee
 * User authentication system
 * API deployment
 
----
-
-## 💡 Learning Outcomes
+Learning Outcomes
 
 * Machine Learning model building
 * Data preprocessing and feature engineering
@@ -146,15 +138,10 @@ The system successfully recommends meals that closely match user nutritional nee
 * Python development
 * Problem-solving and analytical thinking
 
----
-
-## 👩‍💻 Author
+Author
 
 **Chandu Shree**
 MCA Student | Aspiring Data Scientist
 
-LinkedIn: (add link)
+LinkedIn: 
 
----
-
-⭐ If you like this project, consider giving it a star!
