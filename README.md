@@ -114,9 +114,10 @@ python recommendation_engine.py
 
 The system successfully recommends meals that closely match user nutritional needs and preferences, demonstrating the potential of AI in personalized health solutions.
 
-![dash](https://github.com/user-attachments/assets/f0ab0ac8-783f-408d-ad7e-e8db44100b84)
-![login](https://github.com/user-attachments/assets/4ab19073-00e3-4656-933f-7ab215b0dd0b)
-![signup](https://github.com/user-attachments/assets/408371cf-cb5b-428c-8e04-36be80bb8f14)
+![dash](https://github.com/user-attachments/assets/2e5fac58-64c1-46d8-9b58-3f0d7c7a256d)
+![login](https://github.com/user-attachments/assets/a023857c-9156-4b19-af16-093f1e418a80)
+![signup](https://github.com/user-attachments/assets/e4c58350-4265-4007-92c5-9daee4e3f25a)
+
 
 
 
@@ -143,5 +144,5 @@ Author
 **Chandu Shree**
 MCA Student | Aspiring Data Scientist
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/chandu-shree-a73677272/ 
 
