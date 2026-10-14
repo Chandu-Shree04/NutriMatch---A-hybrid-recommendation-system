@@ -105,7 +105,7 @@ pip install -r requirements.txt
 Run the project:
 
 ```bash
-python recommendation_engine.py
+python app.py
 ```
 
 ---
